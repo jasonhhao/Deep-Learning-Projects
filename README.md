@@ -9,16 +9,21 @@ Still updating...
 
 
 #### image_classification
-	- model: Deep Neural Net
+	- framework: Tensorflow
+	- model: DNN
 		
 #### mnist_CNN
+	- framework: Keras
 	- model: CNN
 
 #### CNN-Demo
+	- framework: Keras
 	- model: CNN
   
 #### Softmax_CNN
+	- framework: Tensorflow 
 	- model: CNN
 
 #### CNN_basics
+	- framework: Tensorflow
 	- model: batch_norm vs. no_batch_norm, CNN high level API, CNN raw API
