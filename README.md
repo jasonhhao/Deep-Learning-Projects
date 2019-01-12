@@ -19,3 +19,6 @@ Still updating...
   
 #### Softmax_CNN
 	- model: CNN
+
+#### CNN_basics
+	- model: batch_norm vs. no_batch_norm, CNN high level API, CNN raw API
